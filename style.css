@@ -8,6 +8,41 @@ body {
    align-items: center;
 }
 
+main nav {
+    display:flex;
+    justify-content: center;
+}
+
+#image-first {
+    height: 300px;
+    width: 500px;
+}
+
+#image-second {
+    height: 300px;
+    width: 500px;
+}
+
+#image-third {
+    height: 300px;
+    width: 500px;
+}
+
+#image-forth {
+    height: 300px;
+    width: 500px;
+}
+
+#image-fifth {
+    height: 300px;
+    width: 500px;
+}
+
+#image-sixth {
+    height: 300px;
+    width: 500px;
+}
+
 div {
    margin-bottom: 20px;
    padding: 15px;
